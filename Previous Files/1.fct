@@ -1,0 +1,6 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"1.c" LINE:209
+lcd DSTACK_USAGE:12 DSTACK_LEVEL:12 FILE:"1.c" LINE:164
+ftoa DSTACK_USAGE:13 DSTACK_LEVEL:25 FILE:"C:\Program Files (x86)\codevision 3.12\lib\stdlib.lib" LINE:959
+floor DSTACK_USAGE:4 DSTACK_LEVEL:29 FILE:"C:\Program Files (x86)\codevision 3.12\lib\math.lib" LINE:659
+ftrunc DSTACK_USAGE:4 DSTACK_LEVEL:33 FILE:"C:\Program Files (x86)\codevision 3.12\lib\math.lib" LINE:544
+timer2_ovf_isr DSTACK_USAGE:1 DSTACK_LEVEL:34 FILE:"1.c" LINE:85
