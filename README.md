@@ -1,6 +1,4 @@
 # 80V-Battery-Controller
-80V Battery Controller.
-
 
 This system is used to manage an 80V battery. The battery powers a solar off-road. It is charged by solar panels on the top and by a Diesel Generator on the front. It consists of a power supply, an Arduino MEGA2560 controller, a relay board, a character LCD, and some buttons and LEDs.
 
